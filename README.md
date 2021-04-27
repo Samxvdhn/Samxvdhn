@@ -20,7 +20,7 @@ I am also passionate about open source, which helped me enormously to learn comp
 <img align="middle" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"
   width="500" height="320" />
 
-**Contact me:**
+✉️ **Contact me:**
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me:
@@ -52,7 +52,7 @@ I am also passionate about open source, which helped me enormously to learn comp
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-📈 My GitHub Stats
+📈 **My GitHub Stats**
 
 <p align="center"> <img
     src="https://github-readme-stats.vercel.app/api?username=Samxvdhn&show_icons=true&theme=gotham"
