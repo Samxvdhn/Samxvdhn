@@ -24,7 +24,7 @@ I am also passionate about open source, which helped me enormously to learn comp
       
 ✉️ **Contact me:**
 
-- 💬 Ask me about anything, I love to help;
+- 💬 Ask me about anything, I love to help
 - 📫 How to reach me :
     - Discord - Samxvdhn#0677
     - Twitter - [Samxvdhn](https://twitter.com/Samxvdhn)
