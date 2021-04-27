@@ -34,6 +34,8 @@ I am also passionate about open source, which helped me enormously to learn comp
 <code><img height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20"
+    src="https://cdn.discordapp.com/attachments/792763307433000994/836619690230677594/discord-1.png"></code>
+<code><img height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
