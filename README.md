@@ -1,4 +1,4 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, find me out by reading this description
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23.5px">, find me out by reading this description
 <a href="">
   <img align="left" alt="Samxvdhn'Dev" width="22px"
     src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -16,9 +16,10 @@ Hello, I am [Samxvdhn](https://github.com/Samxvdhn), a passionate self-taught fu
 
 I am also passionate about open source, which helped me enormously to learn computer development on my own. I love the collaboration and knowledge sharing part of open source
 
-
-<img align="middle" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"
-  width="500" height="320" />
+<p align="center"> <img
+   src="https://github.com/Samxvdhn/Samxvdhn/blob/main/code.gif?raw=true"
+   alt="Samxvdhn"
+   width="500" height="320" />
 
 **Contact me:**
 
@@ -49,6 +50,7 @@ I am also passionate about open source, which helped me enormously to learn comp
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
 📊 **This Week I Spent My Time On:**
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
