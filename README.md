@@ -19,7 +19,7 @@ I am also passionate about open source, which helped me enormously to learn comp
 
  <img align="middle"
       alt="GIF"
-      src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"
+      src="https://github.com/Samxvdhn/Samxvdhn/blob/master/code.gif?raw=true"
       width="500" height="320" />
       
 ✉️ **Contact me:**
