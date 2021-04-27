@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23.5px">, find me out by reading this description
+=======
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, read this description to learn more about me
+>>>>>>> c0d951f641da8bc4ae2f2e85f7a71f8bafcbce1a
 <a href="">
   <img align="left" alt="Samxvdhn'Dev" width="22px"
     src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -16,12 +20,18 @@ Hello, I am [Samxvdhn](https://github.com/Samxvdhn), a passionate self-taught fu
 
 I am also passionate about open source, which helped me enormously to learn computer development on my own. I love the collaboration and knowledge sharing part of open source
 
+<<<<<<< HEAD
 <p align="center"> <img
    src="https://github.com/Samxvdhn/Samxvdhn/blob/main/code.gif?raw=true"
    alt="Samxvdhn"
    width="500" height="320" />
+=======
 
-**Contact me:**
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"
+  width="500" height="320" />
+>>>>>>> c0d951f641da8bc4ae2f2e85f7a71f8bafcbce1a
+
+✉️ **Contact me:**
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me:
@@ -54,7 +64,7 @@ I am also passionate about open source, which helped me enormously to learn comp
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-📈 My GitHub Stats
+📈 **My GitHub Stats**
 
 <p align="center"> <img
     src="https://github-readme-stats.vercel.app/api?username=Samxvdhn&show_icons=true&theme=gotham"
