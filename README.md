@@ -17,11 +17,11 @@ Hello, I am [Samxvdhn](https://github.com/Samxvdhn), a passionate self-taught fu
 
 I am also passionate about open source, which helped me enormously to learn computer development on my own. I love the collaboration and knowledge sharing part of open source
 
-<p align="center"> <img
-   src="https://github.com/Samxvdhn/Samxvdhn/blob/main/code.gif?raw=true"
-   alt="Samxvdhn"
-   width="500" height="320" />
-
+ <img align="right"
+      alt="GIF"
+      src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"
+      width="500" height="320" />
+      
 ✉️ **Contact me:**
 
 - 💬 Ask me about anything, I am happy to help;
