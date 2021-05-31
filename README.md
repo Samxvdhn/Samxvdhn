@@ -56,7 +56,8 @@ I am also passionate about open source, which helped me enormously to learn comp
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 35 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.10 % 
+JavaScript   4 hrs 30 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦   98.04 % 
+TypeScript   3 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.44 % 
 ```
 <!--END_SECTION:waka-->
 
