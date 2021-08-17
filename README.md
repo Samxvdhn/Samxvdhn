@@ -56,7 +56,8 @@ I am also passionate about open source, which helped me enormously to learn comp
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   1 hr 34 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀   85.48 % 
+JSON         15 mins         ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.73 % 
 ```
 <!--END_SECTION:waka-->
 
