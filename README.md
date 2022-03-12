@@ -1,6 +1,6 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, read this description to learn more about me
 
-<a href="">
+<a href="https://dsc.bio/samxvdhn">
   <img align="left" alt="Samxvdhn'Dev" width="22px"
     src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -17,15 +17,15 @@ Hello, I am [Samxvdhn](https://github.com/Samxvdhn), a passionate self-taught fu
 
 I am also passionate about open source, which helped me enormously to learn computer development on my own. I love the collaboration and knowledge sharing part of open source
 
-<p align="center"> <img
-   src="https://github.com/Samxvdhn/Samxvdhn/blob/main/code.gif?raw=true"
-   alt="Samxvdhn"
-   width="500" height="320" />
-
+ <img align="middle"
+      alt="GIF"
+      src="https://github.com/Samxvdhn/Samxvdhn/blob/main/code.gif?raw=true"
+      width="500" height="340" />
+      
 ✉️ **Contact me:**
 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me:
+- 💬 Ask me about anything, I love to help
+- 📫 How to reach me :
     - Discord - Samxvdhn#0677
     - Twitter - [Samxvdhn](https://twitter.com/Samxvdhn)
 
@@ -33,6 +33,8 @@ I am also passionate about open source, which helped me enormously to learn comp
 
 <code><img height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20"
+    src="https://cdn.discordapp.com/attachments/792763307433000994/836619690230677594/discord-1.png"></code>
 <code><img height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20"
@@ -49,13 +51,21 @@ I am also passionate about open source, which helped me enormously to learn comp
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+JavaScript   2 hrs 18 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀   66.87 %
+Git Config   25 mins         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.29 %
+JSON         24 mins         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.79 %
+TypeScript   9 mins          ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.76 %
+Other        6 mins          ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.01 %
 ```
+
 <!--END_SECTION:waka-->
 
 📈 **My GitHub Stats**
