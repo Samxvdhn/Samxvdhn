@@ -1,4 +1,4 @@
-### Hi <img width="5%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, read this description to learn more about me
+### Hi <img width="2%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, read this description to learn more about me
 
 <a href="https://dsc.bio/samxvdhn">
   <img align="left" alt="Samxvdhn'Dev" width="22px"
