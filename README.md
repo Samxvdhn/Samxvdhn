@@ -59,7 +59,8 @@ I am also passionate about open source, which helped me enormously to learn comp
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   52 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   96.02 %
+CSV      2 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.98 %
 ```
 
 <!--END_SECTION:waka-->
